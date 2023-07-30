@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "850436935459",
+    "project_id": "push-268a7",
+    "storage_bucket": "push-268a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850436935459:android:da05db8c93aa54919c0696",
+        "android_client_info": {
+          "package_name": "com.example.emergency_alarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850436935459-fph7d0jsf181ufcdnd7astc29715crci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPEp-Vt0qKA8sispLqQZZ6TxXoeLsI4KI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850436935459-fph7d0jsf181ufcdnd7astc29715crci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850436935459:android:eaf2440a16d03bbf9c0696",
+        "android_client_info": {
+          "package_name": "com.example.imagetotext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850436935459-fph7d0jsf181ufcdnd7astc29715crci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPEp-Vt0qKA8sispLqQZZ6TxXoeLsI4KI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850436935459-fph7d0jsf181ufcdnd7astc29715crci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
